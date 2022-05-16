@@ -1,0 +1,10 @@
+###VERSION 1.0###
+-Initial release
+###VERSION 1.1###
+-Changed default video name from "My vid" to "New video"
+-Tags boxes no longer accept new lines
+-Added version label in Settings tab
+-Deleted priority property in Description as it was not used
+-Simplified the Description constructor
+-Fixed the bug where creating a new video was overwriting current video's group to "None"
+-Optimized video group deletion
