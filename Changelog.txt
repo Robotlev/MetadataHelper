@@ -13,3 +13,8 @@
 ###VERSION 1.2###
 -Refactored methods in class DataCRUD to use generics where possible
 -Added search functionality for videos, description elements and tag groups
+
+###VERSION 1.3###
+-Added a button for clearing the search fields
+-Added the ability to search by pressing enter
+-Cleared unnecessary usings
